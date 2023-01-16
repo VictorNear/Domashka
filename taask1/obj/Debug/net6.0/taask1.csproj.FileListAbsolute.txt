@@ -1,0 +1,15 @@
+F:\domashka\taask1\bin\Debug\net6.0\taask1.exe
+F:\domashka\taask1\bin\Debug\net6.0\taask1.deps.json
+F:\domashka\taask1\bin\Debug\net6.0\taask1.runtimeconfig.json
+F:\domashka\taask1\bin\Debug\net6.0\taask1.dll
+F:\domashka\taask1\bin\Debug\net6.0\taask1.pdb
+F:\domashka\taask1\obj\Debug\net6.0\taask1.csproj.AssemblyReference.cache
+F:\domashka\taask1\obj\Debug\net6.0\taask1.GeneratedMSBuildEditorConfig.editorconfig
+F:\domashka\taask1\obj\Debug\net6.0\taask1.AssemblyInfoInputs.cache
+F:\domashka\taask1\obj\Debug\net6.0\taask1.AssemblyInfo.cs
+F:\domashka\taask1\obj\Debug\net6.0\taask1.csproj.CoreCompileInputs.cache
+F:\domashka\taask1\obj\Debug\net6.0\taask1.dll
+F:\domashka\taask1\obj\Debug\net6.0\refint\taask1.dll
+F:\domashka\taask1\obj\Debug\net6.0\taask1.pdb
+F:\domashka\taask1\obj\Debug\net6.0\taask1.genruntimeconfig.cache
+F:\domashka\taask1\obj\Debug\net6.0\ref\taask1.dll
