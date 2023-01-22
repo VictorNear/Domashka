@@ -1,0 +1,15 @@
+F:\domashka\task7\bin\Debug\net6.0\task7.exe
+F:\domashka\task7\bin\Debug\net6.0\task7.deps.json
+F:\domashka\task7\bin\Debug\net6.0\task7.runtimeconfig.json
+F:\domashka\task7\bin\Debug\net6.0\task7.dll
+F:\domashka\task7\bin\Debug\net6.0\task7.pdb
+F:\domashka\task7\obj\Debug\net6.0\task7.csproj.AssemblyReference.cache
+F:\domashka\task7\obj\Debug\net6.0\task7.GeneratedMSBuildEditorConfig.editorconfig
+F:\domashka\task7\obj\Debug\net6.0\task7.AssemblyInfoInputs.cache
+F:\domashka\task7\obj\Debug\net6.0\task7.AssemblyInfo.cs
+F:\domashka\task7\obj\Debug\net6.0\task7.csproj.CoreCompileInputs.cache
+F:\domashka\task7\obj\Debug\net6.0\task7.dll
+F:\domashka\task7\obj\Debug\net6.0\refint\task7.dll
+F:\domashka\task7\obj\Debug\net6.0\task7.pdb
+F:\domashka\task7\obj\Debug\net6.0\task7.genruntimeconfig.cache
+F:\domashka\task7\obj\Debug\net6.0\ref\task7.dll
