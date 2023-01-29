@@ -14,7 +14,7 @@ int size = InputInt("Введите длину массива");
 
 int[] CreateArray(int size)
 {
-   int[]array = new int[size];
+   int[] array = new int[size];
    Random rnd = new Random();
    for (int i = 0; i < array.Length; i++)
    {
@@ -27,25 +27,25 @@ void PrintArray(int[] array)
 {
    for (int i = 0; i < array.Length; i++)
    {
-      Console.Write($"{array[i]}  ");     
+      Console.Write($"{array[i]}  ");
    }
    System.Console.WriteLine();
 }
 
-int SumEvenNumbers(int[] array)
+int CountEvenNumbers(int[] array)
 {
-   int sum = 0;
+   int count = 0;
    for (int i = 0; i < array.Length; i++)
    {
-      if(array[i] % 2 == 0)
+      if (array[i] % 2 == 0)
       {
-      sum++;
+         count++;
       }
    }
-   return sum;
+   return count;
 }
 
 int[] array = CreateArray(size);
 PrintArray(array);
-int summ = SumEvenNumbers(array);
+int summ = CountEvenNumbers(array);
 Console.WriteLine($"Количество четных чисел в массиве -> {summ}");
