@@ -6,7 +6,7 @@
 int InputInt(string message)
 {
    Console.Write(message + " -> ");
-   string inputValue = Console.ReadLine();
+   string? inputValue = Console.ReadLine();
    int result = Convert.ToInt32(inputValue);
    return result;
 }
