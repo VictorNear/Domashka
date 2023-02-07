@@ -1,0 +1,15 @@
+F:\domashka\task22\obj\Debug\net6.0\task22.csproj.AssemblyReference.cache
+F:\domashka\task22\obj\Debug\net6.0\task22.GeneratedMSBuildEditorConfig.editorconfig
+F:\domashka\task22\obj\Debug\net6.0\task22.AssemblyInfoInputs.cache
+F:\domashka\task22\obj\Debug\net6.0\task22.AssemblyInfo.cs
+F:\domashka\task22\obj\Debug\net6.0\task22.csproj.CoreCompileInputs.cache
+F:\domashka\task22\bin\Debug\net6.0\task22.exe
+F:\domashka\task22\bin\Debug\net6.0\task22.deps.json
+F:\domashka\task22\bin\Debug\net6.0\task22.runtimeconfig.json
+F:\domashka\task22\bin\Debug\net6.0\task22.dll
+F:\domashka\task22\bin\Debug\net6.0\task22.pdb
+F:\domashka\task22\obj\Debug\net6.0\task22.dll
+F:\domashka\task22\obj\Debug\net6.0\refint\task22.dll
+F:\domashka\task22\obj\Debug\net6.0\task22.pdb
+F:\domashka\task22\obj\Debug\net6.0\task22.genruntimeconfig.cache
+F:\domashka\task22\obj\Debug\net6.0\ref\task22.dll

@@ -1,0 +1,15 @@
+F:\domashka\task23\bin\Debug\net6.0\task23.exe
+F:\domashka\task23\bin\Debug\net6.0\task23.deps.json
+F:\domashka\task23\bin\Debug\net6.0\task23.runtimeconfig.json
+F:\domashka\task23\bin\Debug\net6.0\task23.dll
+F:\domashka\task23\bin\Debug\net6.0\task23.pdb
+F:\domashka\task23\obj\Debug\net6.0\task23.csproj.AssemblyReference.cache
+F:\domashka\task23\obj\Debug\net6.0\task23.GeneratedMSBuildEditorConfig.editorconfig
+F:\domashka\task23\obj\Debug\net6.0\task23.AssemblyInfoInputs.cache
+F:\domashka\task23\obj\Debug\net6.0\task23.AssemblyInfo.cs
+F:\domashka\task23\obj\Debug\net6.0\task23.csproj.CoreCompileInputs.cache
+F:\domashka\task23\obj\Debug\net6.0\task23.dll
+F:\domashka\task23\obj\Debug\net6.0\refint\task23.dll
+F:\domashka\task23\obj\Debug\net6.0\task23.pdb
+F:\domashka\task23\obj\Debug\net6.0\task23.genruntimeconfig.cache
+F:\domashka\task23\obj\Debug\net6.0\ref\task23.dll
