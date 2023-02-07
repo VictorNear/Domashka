@@ -41,7 +41,7 @@ void PrintArray(int[,] array)
 
 void SearchArrayElement(int[,]array, int inputLines, int inputColumns)
 {
-   if (inputLines <= array.GetLength(0) && inputColumns <= array.GetLength(1))
+   if (inputLines < array.GetLength(0) && inputColumns < array.GetLength(1))
    {
       Console.WriteLine($"По такому адресу находится элемент -> {array[inputLines, inputColumns]}");
    }
@@ -51,8 +51,8 @@ void SearchArrayElement(int[,]array, int inputLines, int inputColumns)
    }
 }
 
-int inputLines = InputInt("Введите позицию строки элемента");
-int inputColumns = InputInt("Введите позицию столбца элемента");
+int inputLines = InputInt("Введите позицию строки элемента") - 1;
+int inputColumns = InputInt("Введите позицию столбца элемента") - 1;
 int[,] resultArray = FillArray(5, 6);
 PrintArray(resultArray);
 SearchArrayElement(resultArray, inputLines, inputColumns);
