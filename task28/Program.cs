@@ -8,20 +8,19 @@ int InputInt(string msg)
    Console.Write(msg + " -> ");
    return Convert.ToInt32(Console.ReadLine());
 }
-int sum = 0;
-void SummNumbers(int firstNumber, int secondNumber, int sum)
+
+int SummNumbers(int firstNumber, int secondNumber)
+
 {
-   sum = sum + firstNumber;
-   if (firstNumber == secondNumber)
+   if (firstNumber > secondNumber)
    {
-      Console.WriteLine(sum);
-      return;
+      return 0;
    }
-   SummNumbers(firstNumber + 1, secondNumber, sum);
+   return firstNumber + SummNumbers(firstNumber + 1, secondNumber);
 }
 
 int firstNumber = InputInt("Введите число");
 int secondNumber = InputInt("Введите число");
-Console.Write($"Сумма чисел от {firstNumber} до {secondNumber} -> ");
-SummNumbers(firstNumber, secondNumber, sum);
+Console.Write($"Сумма чисел от {firstNumber} до {secondNumber} -> {SummNumbers(firstNumber, secondNumber)}");
+SummNumbers(firstNumber, secondNumber);
 
